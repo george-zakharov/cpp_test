@@ -7,7 +7,6 @@ int sum;
 void addTwoNumbers(int x, int y) {
     sum = x + y;
     cout << "The sum is: " << sum;
-    return;
 }
 
 int main() {
